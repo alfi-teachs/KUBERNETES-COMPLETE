@@ -24,7 +24,7 @@ This repo covers Kubernetes objects' and components' details (Kubectl, Pod, Depl
 - [LAB: K8s Taint-Toleration](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Taint-Toleration.md)      
 - [LAB: K8s Daemonset - Creating 3 nodes on Minikube](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Daemon-Sets.md)   
 - [LAB: K8s Persistent Volume and Persistent Volume Claim](https://github.com/alfi-teachs/KUBERNETES-COMPLETE/blob/main/K8s-PersistantVolume.md)
-- [LAB: K8s Stateful Sets - Nginx](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Statefulset.md)  
+- [LAB: K8s Stateful Sets - Nginx](https://github.com/alfi-teachs/KUBERNETES-COMPLETE/blob/main/K8s-Statefulset.md)  
 - [LAB: K8s Job](https://github.com/alfi-teachs/KUBERNETES-COMPLETE/blob/main/K8s-Job.md)
 - [LAB: K8s Cron Job](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-CronJob.md)
 - [LAB: K8s Ingress](https://github.com/alfi-teachs/KUBERNETES-COMPLETE/blob/main/K8s-Ingress.md))
