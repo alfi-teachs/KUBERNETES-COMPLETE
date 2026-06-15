@@ -34,6 +34,6 @@ This repo covers Kubernetes objects' and components' details (Kubectl, Pod, Depl
 - [LAB: Helm-Jenkins on running K8s Cluster (2 Node Multipass VM)](https://github.com/alfi-teachs/KUBERNETES-COMPLETE/blob/main/K8s-Helm-Jenkins.md)
 - [LAB: Enable Dashboard on Real K8s Cluster](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/K8s-Enable-Dashboard-On-Cluster.md)
 - [LAB: K8s Monitoring - Prometheus and Grafana](https://github.com/alfi-teachs/KUBERNETES-COMPLETE/blob/main/K8s-Job.md)
-- [Kubectl Commands Cheatsheet](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/KubernetesCommandCheatSheet.md)
+- [Kubectl Commands Cheatsheet](https://github.com/alfi-teachs/KUBERNETES-COMPLETE/blob/main/k8s-cheatsheet)
 - [Helm Commands Cheatsheet](https://github.com/omerbsezer/Fast-Kubernetes/blob/main/HelmCheatsheet.md)
 
